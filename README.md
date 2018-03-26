@@ -1,0 +1,2 @@
+# odevOrnek1
+Ödev
